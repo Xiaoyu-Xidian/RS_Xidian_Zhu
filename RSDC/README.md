@@ -1,2 +1,2 @@
 # RSDC
-Remote sensing multi-source remote sensing image fusion classification
+Remote sensing multi-source remote sensing image fusion classification.
